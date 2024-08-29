@@ -1,6 +1,6 @@
 ---
 title: Creating a new space for the community
-description: a new website
+description: A blog article celebrating the launch of our official website
 date: 2024/08/29
 duration: 3 min reading time | Ivan
 ---
@@ -16,7 +16,7 @@ In this post, I'll answer these questions and give you a sneak peek into the exc
 
 The Limitless Ascension Discord server was created with a clear mission: to help people transform their lives by improving their habits, time management, and physical and mental health. Our journey started with the dissolvement of a anime community focused around [Classroom of the Elite](https://en.wikipedia.org/wiki/Classroom_of_the_Elite). Observing the often misleading activity there we have grown into something else —a space where self-improvement is grounded in realism and backed by science, hoping to provide our members with actually actionable steps they can apply in their own lives *as opposed to following the footsteps of a fictional character*.
 
-To take this mission even further, We’ve launched this website. It’s a platform where we, along with other passionate members of our community, can share in-depth articles on various self-improvement topics. And trust me, I've made sure it’s a site you’ll love. *Clean, accessible, and visually appealing*.
+To take this mission even further, we’ve launched this website. It’s a platform where we, along with other passionate members of our community, can share in-depth articles on various self-improvement topics. And trust me, I've made sure it’s a site you’ll love. *Clean, accessible, and visually appealing*.
 
 ### Why a Website?
 

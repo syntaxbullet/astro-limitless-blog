@@ -12,13 +12,15 @@ export const siteConfig = {
     {
       text: 'Discord',
       href: 'https://discord.gg/eYXVnnPEsP',
-      icon: '',
-      header: '',
+      icon: 'i-ic:baseline-discord',
+      header: 'i-ic:baseline-discord',
     },
     {
       text: 'Youtube',
       href: 'https://www.youtube.com/@LimitlessAscension',
-      icon: '',
+      icon: 'i-mdi:youtube',
+      header: 'i-mdi:youtube',
+
     },
   ],
   header: {
@@ -30,10 +32,6 @@ export const siteConfig = {
       {
         text: 'Blog',
         href: '/blog',
-      },
-      {
-        text: 'Discord',
-        href: 'https://discord.gg/eYXVnnPEsP',
       },
     ],
   },

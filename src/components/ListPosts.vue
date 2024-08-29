@@ -40,13 +40,13 @@ function getYear(date: Date | string | number) {
 </script>
 
 <template>
-  <ul sm:min-h-38 min-h-28 mb-18>
+  <ul sm:min-h-38 min-h-28>
     <template v-if="!list || list.length === 0">
       <div my-12 opacity-50>
         nothing here yet.
       </div>
     </template>
-    <li v-for="(post, index) in list " :key="post.data.title" mb-8>
+    <li v-for="(post, index) in list " :key="post.data.title" list-none mb-8>
       <div v-if="!isSameYear(post.data.date, list[index - 1]?.data.date)" select-none relative h18 pointer-events-none>
         <span text-7em color-transparent font-bold text-stroke-2 text-stroke-hex-aaa op14 absolute top--0.2em>
           {{ getYear(post.data.date) }}

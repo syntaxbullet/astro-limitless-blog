@@ -1,10 +1,28 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import siteConfig from '@/site-config'
+import ListPosts from '@/components/ListPosts.vue'
+import { getPosts } from '@/utils/posts'
+
+export async function getStaticPaths() {
+  const paths = siteConfig.page.blogLinks.map((nav) => {
+    const href = nav.href.replace('/blog', '')
+    return {
+      params: {
+        path: href === '' ? undefined : href.replace(/^\/+|\/+$/g, ''),
+      },
+    }
+  })
+  return paths
+}
+
+const { path } = Astro.params
+
+const posts = await getPosts(path)
 ---
 
 <BaseLayout description={siteConfig.description}>
-  <article class="prose">
+  <article class="prose mb-0!">
     <p>
       <img width="320" height="320" src="/iconla.png" alt="Hero Image" />
     </p>
@@ -17,26 +35,33 @@ import siteConfig from '@/site-config'
       <button class="my-4">
         <a
           href="https://discord.gg/eYXVnnPEsP"
-          class="bg-white text-black! px-4 py-3 rounded">Join us on Discord!</a
+          class="dark:bg-white dark:text-black! bg-black text-white! px-4 py-3 rounded"
+          >Join us on Discord!</a
         >
       </button>
     </p>
     <hr class="hr-line" />
-    <p>Find us on our</p>
-    <p class="flex gap-x-4 gap-y-2 flex-wrap">
-      {
-        siteConfig.socialLinks.map((link) => (
-          <a
-            aria-label={link.text}
-            href={link.href}
-            target="_blank"
-            class="prose-link"
-          >
-            <i class:list={[link.icon]} />
-            {link.text}
-          </a>
-        ))
-      }
-    </p>
+    <h2 class="text-subtitle">Latest Posts</h2>
   </article>
+  <ListPosts list={posts.slice(0, 3)} />
+  <p>
+    <a href="/blog" class="prose-link">View all posts</a>
+  </p>
+  <hr class="hr-line" />
+  <p class="flex gap-x-4 gap-y-2 flex-wrap">
+    Find us on:
+    {
+      siteConfig.socialLinks.map((link) => (
+        <a
+          aria-label={link.text}
+          href={link.href}
+          target="_blank"
+          class="prose-link"
+        >
+          <i class:list={[link.icon]} />
+          {link.text}
+        </a>
+      ))
+    }
+  </p>
 </BaseLayout>
