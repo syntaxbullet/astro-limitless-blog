@@ -17,35 +17,35 @@ export const siteConfig = {
     },
     {
       text: 'Youtube',
-      href: '',
+      href: 'https://www.youtube.com/@LimitlessAscension',
       icon: '',
     },
   ],
   header: {
     logo: {
-      src: '/astro-limitless-blog/iconla.png',
+      src: '/iconla.png',
       alt: 'Logo Image',
     },
     navLinks: [
       {
         text: 'Blog',
-        href: '/astro-limitless-blog/blog',
+        href: '/blog',
       },
       {
         text: 'Discord',
-        href: '/astro-limitless-blog/blog',
+        href: 'https://discord.gg/eYXVnnPEsP',
       },
     ],
   },
   page: {
     blogLinks: [
       {
-        text: 'Blog',
+        text: 'All Posts',
         href: '/blog',
       },
       {
-        text: 'Discord',
-        href: '/blog',
+        text: 'Server Announcements',
+        href: '/blog/announcements',
       },
     ],
   },
