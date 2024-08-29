@@ -1,45 +1,29 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
-  title: 'Vitesse theme for Astro',
-  subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
-  description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
+  author: 'Limitless Ascension',
+  title: 'Limitless Ascension - Discord Community',
+  subtitle: 'A discord community centered around realistic self-improvement and personal growth.',
+  description: 'We are a community of like-minded individuals who are dedicated to self-improvement and personal growth. We are here to help you achieve your goals and reach your full potential, backed by science.',
   image: {
-    src: '/hero.jpg',
+    src: '/iconla.png',
     alt: 'Website Main Image',
   },
-  email: 'kevinwong865@gmail.com',
+  email: 'syntaxbullet@protonmail.com',
   socialLinks: [
     {
-      text: 'GitHub',
-      href: '',
-      icon: 'i-simple-icons-github',
-      header: 'i-ri-github-line',
-    },
-    {
-      text: 'Twitter',
-      href: '',
-      icon: 'i-simple-icons-x',
-      header: 'i-ri-twitter-x-line',
-    },
-    {
-      text: 'Linkedin',
-      href: '',
-      icon: 'i-simple-icons-linkedin',
-    },
-    {
-      text: 'Instagram',
-      href: '',
-      icon: 'i-simple-icons-instagram',
+      text: 'Discord',
+      href: 'https://discord.gg/eYXVnnPEsP',
+      icon: '',
+      header: '',
     },
     {
       text: 'Youtube',
       href: '',
-      icon: 'i-simple-icons-youtube',
+      icon: '',
     },
   ],
   header: {
     logo: {
-      src: '/favicon.svg',
+      src: '/iconla.png',
       alt: 'Logo Image',
     },
     navLinks: [
@@ -48,16 +32,8 @@ export const siteConfig = {
         href: '/blog',
       },
       {
-        text: 'Notes',
-        href: '/blog/notes',
-      },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
-      {
-        text: 'Projects',
-        href: '/projects',
+        text: 'Discord',
+        href: '/blog',
       },
     ],
   },
@@ -68,33 +44,13 @@ export const siteConfig = {
         href: '/blog',
       },
       {
-        text: 'Notes',
-        href: '/blog/notes',
-      },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
+        text: 'Discord',
+        href: '/blog',
       },
     ],
   },
   footer: {
     navLinks: [
-      {
-        text: 'Posts Props',
-        href: '/posts-props',
-      },
-      {
-        text: 'Markdown Style',
-        href: '/md-style',
-      },
-      {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
-      },
-      {
-        text: 'GitHub Repository',
-        href: 'https://github.com/kevinwong865/astro-theme-vitesse',
-      },
     ],
   },
 }
