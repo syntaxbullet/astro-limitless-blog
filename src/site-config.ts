@@ -23,17 +23,17 @@ export const siteConfig = {
   ],
   header: {
     logo: {
-      src: '/iconla.png',
+      src: 'astro-limitless-blog/iconla.png',
       alt: 'Logo Image',
     },
     navLinks: [
       {
         text: 'Blog',
-        href: '/blog',
+        href: 'astro-limitless-blog/blog',
       },
       {
         text: 'Discord',
-        href: '/blog',
+        href: 'astro-limitless-blog/blog',
       },
     ],
   },
@@ -41,11 +41,11 @@ export const siteConfig = {
     blogLinks: [
       {
         text: 'Blog',
-        href: '/blog',
+        href: 'astro-limitless-blog/blog',
       },
       {
         text: 'Discord',
-        href: '/blog',
+        href: 'astro-limitless-blog/blog',
       },
     ],
   },
