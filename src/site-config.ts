@@ -41,11 +41,11 @@ export const siteConfig = {
     blogLinks: [
       {
         text: 'Blog',
-        href: '/astro-limitless-blog/blog',
+        href: '/blog',
       },
       {
         text: 'Discord',
-        href: '/astro-limitless-blog/blog',
+        href: '/blog',
       },
     ],
   },
