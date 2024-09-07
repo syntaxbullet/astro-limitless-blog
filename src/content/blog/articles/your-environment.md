@@ -64,6 +64,6 @@ I personally do not make use of social media of any kind other than discord, and
 ### Conclusion
 Your environment is very important to your personal success, but not definitive. It is a constantly changing thing, and it is never too late to make meaningful changes. Every single pillar we talked about in this article can be worked on in isolation, so even if there are some areas of your life in which unfortunate circumstances are holding you back, there are always other areas you can actively work on. 
 
-At Limitless Ascension we are all determined to help you be your best self, work on the things you can work on, an learn to accept the cards dealt to you, making the most out of it. I know this was a rather long article to read but I am confident that this article is worth reading for everyone that feels cornered by the constraints holding them back. 
+At Limitless Ascension we are all determined to help you be your best self, work on the things you can work on, and learn to accept the cards dealt to you, making the most out of it. I know this was a rather long article to read but I am confident that this article is worth reading for everyone that feels cornered by the constraints holding them back. 
 
 Thanks for reading~ 
