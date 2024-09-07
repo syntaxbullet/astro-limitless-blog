@@ -2,7 +2,7 @@
 title: The role of your environment in personal success.
 description: Exploring the pillars of ones' personal environment, and it's role in self-improvement.
 date: 2024/09/07
-duration: 12 min reading time | Ivan
+duration: 8 min reading time | Ivan
 ---
 
 About a week ago one of our members made a really interesting comment. They had a strong desire to improve but felt like their environment was holding them back from becoming the person they always wanted to be. This article serves as an in-depth look into this topic. Let's explore what makes a good environment, how important it actually is, and which steps you can take to improve your environment regardless of the difficult circumstances and conditions you might be in.
