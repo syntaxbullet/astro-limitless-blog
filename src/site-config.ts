@@ -11,7 +11,7 @@ export const siteConfig = {
   socialLinks: [
     {
       text: 'Discord',
-      href: 'https://discord.gg/eYXVnnPEsP',
+      href: 'https://discord.gg/WpktJqdDTQ',
       icon: 'i-ic:baseline-discord',
       header: 'i-ic:baseline-discord',
     },
