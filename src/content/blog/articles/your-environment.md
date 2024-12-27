@@ -11,7 +11,7 @@ About a week ago, one of our members made a really interesting comment. They had
 What makes a suitable environment is ultimately very subjective. What is clear, however, is that your personal environment is more than just the rooms you are in or the places you work. It is a combination of your **physical**, **mental**, **emotional** and **digital** environments. Think of it as a skill tree in an RPG game. Each one of us has a different amount of skill points in different areas of our environment, but ultimately, a good balance of these ensures that you have what you need in order to become the person you want to be.
 
 #### Your physical environment.
-Your physical environment, also known as your surroundings, play a pivotal role when it comes to your ability to focus, motivate yourself, and complete the tasks you have to every single day. Think of your surroundings as a reflection of your mindset. A messy desk, crowded spaces, and loud noises cause mental fog, your mindset shifts from being able to focus on tasks to a more defensive distracted mode, aiming to get rid of those distractions as quickly as possible. 
+Your physical environment, also known as your surroundings, play a pivotal role when it comes to your ability to focus, motivate yourself, and complete the tasks you have to every single day. Think of your surroundings as a reflection of your mindset. A messy desk, crowded spaces, and loud noises cause mental fog, your mindset shifts from being able to focus on tasks to a more defensive distracted mode, aiming to get rid of those distractions as quickly as possible.
 
 Getting your physical environment sorted out is not as hard as it may sound, **A clean desk** goes a long way, leaving you with an **organized workspace**, that also affects your mindset. Working on a clean and organized desk will not only motivate you to work more efficiently but also allow you to fully focus on the task at hand. It starts with decluttering your space and removing all items that are not absolutely necessary to be productive. I personally solve this by having two desks in my room, one with decor, my computer, etc. And a completely empty one with pens, a small monitor, and sheets of paper.
 
@@ -24,7 +24,7 @@ How you organize this physical environment for yourself is up to you; however, h
 **Customizing your space with items that reinforce your goals and interests** can also benefit you. I personally have little post-it notes stuck to the wall that remind me of the times I proved those wrong that doubted me and remind me of the things I still have to do.
 
 #### Your mental environment.
-Your mental space is just as important as your physical one; it describes what drives you and what you think about every single day. The positivity in your life and how you deal with throwbacks and failure. No other aspect of this article makes up for an unhealthy mental space. 
+Your mental space is just as important as your physical one; it describes what drives you and what you think about every single day. The positivity in your life and how you deal with throwbacks and failure. No other aspect of this article makes up for an unhealthy mental space.
 
 The thoughts you allow to shape your daily life are incredibly important. The self-talk most people engage in daily decides which goals are going to be pursued and which are not. It is the source of motivation, but also procrastination. Cultivating positive thoughts can help you more than any other part of this article to actually take meaningful action, while negative thoughts, on the other hand, can make you not even read this article altogether.
 
@@ -39,9 +39,9 @@ Your emotional environment differs from the mental environment in the sense that
 
 A good emotional space can help you avoid anxiety and burnout, it serves as a charger to your internal battery. Healthy and beneficial social spaces are absolutely necessary for a healthy and successful life.
 
-At the core of a good emotional environment are your **relationships**. Your family, friends, colleagues, or mentors. While you cannot pick the members of your family, you can most definitely pick all of the people you want to interact with on a daily basis. Surrounding yourself with people who encourage, challenge, and believe in your potential can significantly boost your emotional well-being. These individuals not only provide reassurance during tough times but also celebrate your successes, which helps build your self-confidence. 
+At the core of a good emotional environment are your **relationships**. Your family, friends, colleagues, or mentors. While you cannot pick the members of your family, you can most definitely pick all of the people you want to interact with on a daily basis. Surrounding yourself with people who encourage, challenge, and believe in your potential can significantly boost your emotional well-being. These individuals not only provide reassurance during tough times but also celebrate your successes, which helps build your self-confidence.
 
-In contrast, toxic relationships, marked by negativity, jealousy, or constant criticism, can drain your energy and make it harder to stay motivated. It is important to be incredibly strict and selfish when it comes to picking the people you want to surround yourself with. 
+In contrast, toxic relationships, marked by negativity, jealousy, or constant criticism, can drain your energy and make it harder to stay motivated. It is important to be incredibly strict and selfish when it comes to picking the people you want to surround yourself with.
 
 On top of picking the people you spend time with, fostering **emotional resilience** is incredibly important. It is the ability to manage your emotions through difficult times.
 Exercises like journaling and mindfulness, can help you stay positive. A base level of positivity at all times is required to be able to process feelings like disappointment, frustration, and fear in a healthy way. You will not be able to avoid those feelings, it is important to get yourself ready for the inevitable mental difficulty you'll be facing when processing these emotions.
@@ -53,7 +53,7 @@ In today's world, everyone, no matter their age, is constantly surrounded by dig
 
 Digital devices can have absolutely magical effects on people's productivity, allowing them to do things more effectively and faster than ever before. Especially with the recent advent of generative AI, technology today is saving people more time than ever before.
 
-But technical advances have also introduced something that is now known as the *"attention economy,"* in which various services are competing for your undivided attention. Powered by AI algorithms, they are trying to maximize the time you spend on those applications, often not leaving enough time for you to make meaningful progress. 
+But technical advances have also introduced something that is now known as the *"attention economy,"* in which various services are competing for your undivided attention. Powered by AI algorithms, they are trying to maximize the time you spend on those applications, often not leaving enough time for you to make meaningful progress.
 
 I personally do not make use of social media of any kind other than discord, and I know many of you do, and this article won't be able to convince you to leave those behind. Yet I want to make an appeal for you to consider some tiny changes that might make your life more meaningful immediately.
 
@@ -62,8 +62,8 @@ I personally do not make use of social media of any kind other than discord, and
 - **Not every social media is bad, choose your poison.** Picking the right communities and setting up your phone to avoid potentially harmful ones can turn this toxic social media habit into an actually beneficial one. Use it as a way to connect with like-minded people, build a space in which you can hold yourself and others accountable, and celebrate each other's goals and successes.
 
 ### Conclusion
-Your environment is very important to your personal success, but not definitive. It is a constantly changing thing, and it is never too late to make meaningful changes. Every single pillar we talked about in this article can be worked on in isolation, so even if there are some areas of your life in which unfortunate circumstances are holding you back, there are always other areas you can actively work on. 
+Your environment is very important to your personal success, but not definitive. It is a constantly changing thing, and it is never too late to make meaningful changes. Every single pillar we talked about in this article can be worked on in isolation, so even if there are some areas of your life in which unfortunate circumstances are holding you back, there are always other areas you can actively work on.
 
-At Limitless Ascension, we are all determined to help you be your best self, work on the things you can work on, and learn to accept the cards dealt to you, making the most out of them. I know this was a rather long article to read, but I am confident that this article is worth reading for everyone that feels cornered by the constraints holding them back. 
+At Limitless Ascension, we are all determined to help you be your best self, work on the things you can work on, and learn to accept the cards dealt to you, making the most out of them. I know this was a rather long article to read, but I am confident that this article is worth reading for everyone that feels cornered by the constraints holding them back.
 
-Thanks for reading~ 
+Thanks for reading~
